@@ -1,5 +1,5 @@
-// Script by Xeon 
-// 𝐃𝐨𝐠𝐞 𝐁𝐨𝐭
+// Script by abhi 
+// ABHI SER
 // ©Xeon Bot Incorporated
 const {
   WAConnection: _WAConnection,
